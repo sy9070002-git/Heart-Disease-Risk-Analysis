@@ -166,7 +166,9 @@ Healthcare patient dataset containing:
 **Sumit Yadav**
 
 Data Analytics | Python | SQL | Power BI
+LinkedIn: https://www.linkedin.com/in/sumit-yadav-2622492a7/?isSelfProfile=true
 
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://https://github.com/sy9070002-git
 
-GitHub: https://github.com/your-username
+
+
